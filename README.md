@@ -18,6 +18,4 @@ To investigate the relationship between reported salaries and job satisfaction r
 
 
 
-## Appendix
 
-Any additional information goes here
